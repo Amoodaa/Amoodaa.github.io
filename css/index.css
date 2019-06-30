@@ -12,7 +12,7 @@ a {
 
 nav a {
     padding: 8px;
-    color: grey;
+  /* color: grey;*/
     display: flex;
     justify-content: center;
     align-items: center;
